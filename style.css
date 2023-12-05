@@ -896,7 +896,7 @@ footer a:hover {
 }
 
 /* For Medium Devices */
-@media (max-width: 400px){
+@media (max-width: 799px){
     .nav{
         padding: 11px;
     }
@@ -909,7 +909,7 @@ footer a:hover {
 }
 
 /* For Small Devices */
-@media (max-width: 360px){
+@media (max-width: 477px){
     .shop{
         margin-top: 1rem;
     }
